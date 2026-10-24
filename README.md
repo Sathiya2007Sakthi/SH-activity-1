@@ -36,15 +36,11 @@ Benefits:
    .AI/ML: Demand forecasting and price prediction.
 2) Implementation methodology:
     .Flowchart:
-                Farmer Registration
-                         ⬇️
-                   Product Listing
-                         ⬇️ 
-                   Buyer Matching
-                         ⬇️
-                   Price Confirmation
-                         ⬇️
-                      Delivery              
+       .Farmer Registration
+       .Product Listing 
+       .Buyer Matching
+       .Price Confirmation
+       .Delivery              
  
 ## Feasibility and Viability
 
