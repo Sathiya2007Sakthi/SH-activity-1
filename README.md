@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:24/10/26
+## Reference Number:26011018
+## Name: Sathiya Priya S
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,38 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
-
+.Connect farmers directly with consumers, retailers and bulk buyers through a digital marketplace.
+.Display live market prices.
+.Coordinate shared transportation and storage facilities to reduce costs and prevent wastage. 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
-
+1) .Frontend:HTML,CSS,Javascript.
+   .Backend: Python with Flask framework.
+   .Database:MySQL.
+   .AI/ML: Demand forecasting and price prediction.
+2) Implementation methodology:
+    .Flowchart:
+                Farmer Registration
+                         ⬇️
+                   Product Listing
+                         ⬇️ 
+                   Buyer Matching
+                         ⬇️
+                   Price Confirmation
+                         ⬇️
+                      Delivery              
+ 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+
+1. The platform can be implemented using existing marketplace services and local delivery networks.
+2. Transparent pricing and direct selling can reduce intermediary costs and improve farmers earnings.
+3. Starting with a small group of farmers and buyers can test the idea before before expanding to more regions.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+
+1.Higher Farmer Income: Direct selling reduces intermediary costs and improves farmers earnings.
+2.Affordable Prices: Consumers can purchase fresh produce at fairer prices.
+3.Reduced Food Waste: Better demand planning and faster delivery help prevent spoilage.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1.e-NAM
+2.Food and Agricultural organisation(FAO)
